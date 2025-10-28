@@ -5,7 +5,7 @@
 
 ## PERTANYAAN DAN TUGAS
 
-![gambar](ss/pt.png)
+![gambar](pt.png)
 
 ## JAWAB
 
