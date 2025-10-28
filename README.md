@@ -5,28 +5,33 @@
 
 ## PERTANYAAN DAN TUGAS
 
-![gambar]()
+![gambar](ss/pt.png)
 
 ## JAWAB
 
 ### 1.  Layout Web Praktikum 4
 
-#### Tampilan Awal
-![gambar]()
-
 #### Tampilan Bootstrap
-![gambar]()
+![gambar](Home.png)
+![gambar](about.png)
+![gambar](Kontak.png)
+![gambar](Artikel.png)
 
+![gambar](5.png)
+![gambar](1.png)
+![gambar](6.png)
+![gambar](2.png)
 
 ### 2.  Form Input Praktikum 5
 
 #### Tampilan Awal
-![gambar]()
+![gambar](form.png)
 
 #### Tampilan Bootstrap
-![gambar]()
-
+![gambar](Form1.png)
+![gambar](3.png)
+![gambar](4.png)
 
 ### 3.  Portofolio
-![gambar]()
-
+![gambar](Porto.png)
+![gambar](7.png)
